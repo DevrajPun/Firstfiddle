@@ -1,0 +1,15 @@
+.weblogo{
+    width: 65px;
+}
+.navbar{
+    background: #00000082!important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: lighter;
+    font-size: 15px;
+    text-transform: uppercase;
+}
